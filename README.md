@@ -36,8 +36,10 @@ import seaborn as sns
 1. Reading the Dataset.
 This chapter presents the steps to read the dataset about American Universities.
 
+
 2. Data Preparation: Cleaning and Formatting.
 In all data-analysis projects, the data preparation step is not only necessary but also vital to find and handle features that could cause some problems while making the quantitative analysis, or that could lead to low efficient coding. According to Alivia Smith[1], this step usually takes up to 80% of the entire time of a data analysis project. Therefore, missing, invalid, and inconsistent values have been addressed. Finally, this step presents a code for changing the format of column names.
+
 
 3. Exploratory Data Analysis (EDA) and Visualization. Quantitative and qualitative analysis (Asking and Answering Questions).
 Although in many cases, the exploratory data analysis and the quantitative and qualitative analysis are separated steps, in this specific project, they have been joined. This step, previous to asking questions that could lead to reaching the project's aim, presents global-useful information about the different columns of the dataset. Some initial examinations were performed as a way of beginning finding patterns, creating hypotheses, and corroborating early assumptions. Later, deeper investigations were depicted as part of reaching the project's goal.
@@ -53,6 +55,8 @@ Do students prefer a university for its low on-campus cost of living?
 Do students prefer universities from highly populated states?
 Do students prefer a university because it belongs to a state with a high GDP per capita?
 Do students prefer a university based on the possibility of a higher, additional academic degree in the same university?
+
+
 4. Inferences and Conclusions.
 Although all conclusions and answers are exposed in the previous section accordingly to each question, this section also presents, in a concise manner, the most significant insights.
 
